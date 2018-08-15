@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yarmini.github.io/"/>
+  <link href="http://yarmini.com/"/>
   <updated>2018-08-15T02:39:39.604Z</updated>
-  <id>http://yarmini.github.io/</id>
+  <id>http://yarmini.com/</id>
   
   <author>
     <name>Yarmini</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>태연한 인생 – 은희경, 매혹과 패턴 그리고 고독</title>
-    <link href="http://yarmini.github.io/2018/04/15/%ED%83%9C%EC%97%B0%ED%95%9C-%EC%9D%B8%EC%83%9D-%E2%80%93-%EC%9D%80%ED%9D%AC%EA%B2%BD-%EB%A7%A4%ED%98%B9%EA%B3%BC-%ED%8C%A8%ED%84%B4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B3%A0%EB%8F%85/"/>
-    <id>http://yarmini.github.io/2018/04/15/태연한-인생-–-은희경-매혹과-패턴-그리고-고독/</id>
+    <link href="http://yarmini.com/2018/04/15/%ED%83%9C%EC%97%B0%ED%95%9C-%EC%9D%B8%EC%83%9D-%E2%80%93-%EC%9D%80%ED%9D%AC%EA%B2%BD-%EB%A7%A4%ED%98%B9%EA%B3%BC-%ED%8C%A8%ED%84%B4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B3%A0%EB%8F%85/"/>
+    <id>http://yarmini.com/2018/04/15/태연한-인생-–-은희경-매혹과-패턴-그리고-고독/</id>
     <published>2018-04-15T10:59:16.000Z</published>
     <updated>2018-08-15T02:39:39.604Z</updated>
     
@@ -35,15 +35,15 @@
     
     </summary>
     
-      <category term="책" scheme="http://yarmini.github.io/categories/%EC%B1%85/"/>
+      <category term="책" scheme="http://yarmini.com/categories/%EC%B1%85/"/>
     
     
   </entry>
   
   <entry>
     <title>책 읽기의 풍부한 경험에 대해</title>
-    <link href="http://yarmini.github.io/2018/03/25/%EC%B1%85-%EC%9D%BD%EA%B8%B0%EC%9D%98-%ED%92%8D%EB%B6%80%ED%95%9C-%EA%B2%BD%ED%97%98%EC%97%90-%EB%8C%80%ED%95%B4/"/>
-    <id>http://yarmini.github.io/2018/03/25/책-읽기의-풍부한-경험에-대해/</id>
+    <link href="http://yarmini.com/2018/03/25/%EC%B1%85-%EC%9D%BD%EA%B8%B0%EC%9D%98-%ED%92%8D%EB%B6%80%ED%95%9C-%EA%B2%BD%ED%97%98%EC%97%90-%EB%8C%80%ED%95%B4/"/>
+    <id>http://yarmini.com/2018/03/25/책-읽기의-풍부한-경험에-대해/</id>
     <published>2018-03-25T06:20:17.000Z</published>
     <updated>2018-08-15T02:19:06.918Z</updated>
     
@@ -58,15 +58,15 @@
     
     </summary>
     
-      <category term="책" scheme="http://yarmini.github.io/categories/%EC%B1%85/"/>
+      <category term="책" scheme="http://yarmini.com/categories/%EC%B1%85/"/>
     
     
   </entry>
   
   <entry>
     <title>2018, 새로운 시작</title>
-    <link href="http://yarmini.github.io/2018/01/20/2018-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91/"/>
-    <id>http://yarmini.github.io/2018/01/20/2018-새로운-시작/</id>
+    <link href="http://yarmini.com/2018/01/20/2018-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91/"/>
+    <id>http://yarmini.com/2018/01/20/2018-새로운-시작/</id>
     <published>2018-01-19T23:46:26.000Z</published>
     <updated>2018-08-14T23:50:55.302Z</updated>
     
@@ -82,7 +82,7 @@
     
     </summary>
     
-      <category term="일상" scheme="http://yarmini.github.io/categories/%EC%9D%BC%EC%83%81/"/>
+      <category term="일상" scheme="http://yarmini.com/categories/%EC%9D%BC%EC%83%81/"/>
     
     
   </entry>
