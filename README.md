@@ -1,1 +1,1 @@
-Blog
+blog: yarmini.com
