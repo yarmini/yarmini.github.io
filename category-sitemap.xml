@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yarmini.com</loc>
+        <loc>https://yarmini.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yarmini.com/categories/%EC%9D%BC%EC%83%81/</loc>
+        <loc>https://yarmini.com/categories/%EC%9D%BC%EC%83%81/</loc>
         <lastmod>2018-12-30T12:31:09.345Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yarmini.com/categories/%EC%B1%85/</loc>
+        <loc>https://yarmini.com/categories/%EC%B1%85/</loc>
         <lastmod>2019-01-01T16:03:53.097Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

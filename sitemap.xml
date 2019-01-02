@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yarmini.com/post-sitemap.xml</loc>
+        <loc>https://yarmini.com/post-sitemap.xml</loc>
         <lastmod>2019-01-01T16:03:53.097Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yarmini.com/page-sitemap.xml</loc>
+        <loc>https://yarmini.com/page-sitemap.xml</loc>
         <lastmod>2019-01-01T16:29:46.074Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yarmini.com/category-sitemap.xml</loc>
+        <loc>https://yarmini.com/category-sitemap.xml</loc>
         <lastmod>2018-12-30T12:31:09.345Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yarmini.com/tag-sitemap.xml</loc>
+        <loc>https://yarmini.com/tag-sitemap.xml</loc>
         <lastmod>2018-12-30T12:31:04.786Z</lastmod>
     </sitemap>
 
