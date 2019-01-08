@@ -8,8 +8,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>일상, 책, 개발</description>
-    <pubDate>Tue, 01 Jan 2019 16:03:53 GMT</pubDate>
+    <pubDate>Tue, 08 Jan 2019 14:26:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2018, 잘한 것 못한 것 아쉬운 것</title>
+      <link>https://yarmini.com/2019/01/03/2018-%EC%9E%98%ED%95%9C-%EA%B2%83-%EB%AA%BB%ED%95%9C-%EA%B2%83-%EC%95%84%EC%89%AC%EC%9A%B4-%EA%B2%83/</link>
+      <guid>https://yarmini.com/2019/01/03/2018-%EC%9E%98%ED%95%9C-%EA%B2%83-%EB%AA%BB%ED%95%9C-%EA%B2%83-%EC%95%84%EC%89%AC%EC%9A%B4-%EA%B2%83/</guid>
+      <pubDate>Wed, 02 Jan 2019 15:57:35 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;img src=&quot;/2019/01/03/2018-잘한-것-못한-것-아쉬운-것/resize_carl-raw-498887-unsplash.jpg&quot;&gt;
+&lt;p&gt;지난 2018 한해를 돌이켜보려 한다. 매년 반복되는 생활 방식에서 벗어나고자 다양한 시도를 했다. 
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<img src="/2019/01/03/2018-잘한-것-못한-것-아쉬운-것/resize_carl-raw-498887-unsplash.jpg"><p>지난 2018 한해를 돌이켜보려 한다. 매년 반복되는 생활 방식에서 벗어나고자 다양한 시도를 했다. 그중에 성공한 것도 있고, 끝까지 지키지 못한 것도 있지만 나름 보람찼다.</p><p>칭찬과 반성을 위해 가볍게 정리해보자.</p><h2 id="잘한-것"><a href="#잘한-것" class="headerlink" title="잘한 것"></a>잘한 것</h2><h4 id="웹-프로그래밍-입문"><a href="#웹-프로그래밍-입문" class="headerlink" title="웹 프로그래밍 입문"></a>웹 프로그래밍 입문</h4><p>Vue.js, Django Restful Framework, Node.js 등의 웹 프로그래밍 언어와 기술을 배우면서 Frontend/Backend 기본적인 원리와 동작들을 이해할 수 있었다. 가벼운 프로젝트들을 만들어보면서 로직들을 익혔다. 요즘은 책뿐만 아니라, 온라인 학습을 제공하는 서비스들이 많아 배우기에 매우 쾌적했다. 결국 배우고 싶은 의지만큼 얻을 수 있는 것 같다. (책으로도 그랬지만?) 전문적인 지식은 부족하지만 흐름을 조금이나마 이해할 수 있어 답답했던 블랙박스가 조금 투명해졌다. </p><h4 id="꾸준한-독서와-독서-모임"><a href="#꾸준한-독서와-독서-모임" class="headerlink" title="꾸준한 독서와 독서 모임"></a>꾸준한 독서와 독서 모임</h4><p>독서를 더욱 활발하고, 풍부하게 하고자 독서 모임에 들어갔다. 독서 토론은 한 달에 한 번씩 이뤄지지만, 선정한 한 권의 책을 동시에 같이 읽고, 준비된 주제 발제에 따라 의견을 공유하는 독서 토론은 매우 즐거웠고, 유익했다. 또한, 편협된 책 종류와 주제를 벗어나 다양한 분야를 접할 수 있었다. 아마 다뤄진 책들은 모임이 없었으면, 결코 관심도 주지 않았을 것이다.</p><p>추가로, 한 권의 책을 읽고 관련 책을 다룬 Podcast를 찾아 청취하는 것은 매우 큰 기쁨이었다. 때로는 작가가 직접 출연하여 배경지식과 중요하게 다룬 부분들을 설명해주는 것은 꽤 흥미로웠다. 작가에게 한발 다가가서 솔직한 심정이나 마음을 들여다보는 듯했다. 다음에는 작가와의 만남이나 사인회 같은 행사에도 참여해보고 싶다.</p><p>최소 한 달에 한번 독서 후기를 작성하자.</p><h4 id="수영"><a href="#수영" class="headerlink" title="수영"></a>수영</h4><p>두 번째 재도전. 초급반부터 시작해서, 초중급의 평영까지 왔다. 익히는 시간은 남들보다 늦지만, 결국 하나씩 영법이 익혀진다. 모든 것이 그렇듯 상대적으로 어려울지라도 투자(노력)한 시간이 결국 결과를 만든다. 수영장에서 물장구가 아닌 수영을 할 수 있다는 점이 만족스럽다. </p><h2 id="못한-것"><a href="#못한-것" class="headerlink" title="못한 것"></a>못한 것</h2><h4 id="전문-분야-찾기"><a href="#전문-분야-찾기" class="headerlink" title="전문 분야 찾기"></a>전문 분야 찾기</h4><p>프로그래밍은 흠뻑 빠져들도록 즐겁다. 하지만, 내 전문 분야는 과연 무엇일지 한참 동안 찾고 있다. StackOverflow나 Quora에서 어떤 분야에 답변을 잘할 수 있을까. 회사에서의 프로젝트는 종종 변경되기 때문에 그와 별개의 주제를 갖고 싶고, 그래야 한다.  2019년의 큰 숙제이다.</p><h4 id="기술-블로그"><a href="#기술-블로그" class="headerlink" title="기술 블로그"></a>기술 블로그</h4><p>무엇을 써야할 지 몰랐고, 무엇이 도움이 될지 몰랐다. </p><h2 id="아쉬운-것"><a href="#아쉬운-것" class="headerlink" title="아쉬운 것"></a>아쉬운 것</h2><h4 id="영어"><a href="#영어" class="headerlink" title="영어"></a>영어</h4><p>회화 능력을 향상하고자, 주간 화상 영어도 꾸준히 했지만 크게 도움 되지 않았다. 화상 영어 시간과 별개로 개인만의 학습 시간을 갖지 않고서는 늘지 않았다. 어찌 보면, 뭐라도 있다는 안도감으로 더 노력을 안 했다. 쉽게 얻은 건, 쉽게 나가는 법.</p>]]></content:encoded>
+      
+      <comments>https://yarmini.com/2019/01/03/2018-%EC%9E%98%ED%95%9C-%EA%B2%83-%EB%AA%BB%ED%95%9C-%EA%B2%83-%EC%95%84%EC%89%AC%EC%9A%B4-%EA%B2%83/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>서러워라, 잊혀진다는 것은 - 김탁환, 이토록 서글픈 제목이 있을까..</title>
